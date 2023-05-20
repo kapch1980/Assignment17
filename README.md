@@ -17,3 +17,4 @@ Following steps were followed -
 
 ### Top observations
 SVC seems to take max time.
+Building a predictive model is an iterative process, and we may need to revisit and refine your steps as we gain more insights from the data and improve your model's performance.
